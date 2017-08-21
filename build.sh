@@ -7,3 +7,12 @@ hugo -s talks -d "../public/talks"
 
 mkdir public/pRojects
 cp -R pRojects/docs/* public/pRojects/
+
+mkdir public/optiRum
+cp -R optiRum/docs/* public/optiRum/
+
+mkdir public/datasauRus
+cp -R datasauRus/docs/* public/datasauRus/
+
+mkdir public/HIBPwned
+cp -R HIBPwned/docs/* public/HIBPwned/
