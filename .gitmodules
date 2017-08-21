@@ -7,3 +7,15 @@
 [submodule "talks"]
 	path = talks
 	url = git@github.com:lockedatapublished/talks.git
+[submodule "pRojects"]
+	path = pRojects
+	url = git@github.com:lockedata/pRojects.git
+[submodule "optiRum"]
+	path = optiRum
+	url = git@github.com:stephlocke/optiRum.git
+[submodule "datasauRus"]
+	path = datasauRus
+	url = git@github.com:stephlocke/datasauRus.git
+[submodule "HIBPwned"]
+	path = HIBPwned
+	url = git@github.com:stephlocke/HIBPwned.git
