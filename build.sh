@@ -6,4 +6,4 @@ hugo -s blog -d "../public/blog"
 hugo -s talks -d "../public/talks"
 
 mkdir public/pRojects
-cp pRojects/docs/* public/pRojects/
+cp -R pRojects/docs/* public/pRojects/
