@@ -1,3 +1,4 @@
 #!/bin/bash
 git submodule update --init --recursive
-hugo -s itsalocke -d "../public"
+hugo version
+hugo -v -s itsalocke -d "../public"
