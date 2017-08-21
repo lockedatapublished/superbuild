@@ -1,0 +1,6 @@
+[submodule "itsalocke"]
+	path = itsalocke
+	url = git@github.com:lockedatapublished/itsalocke.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:lockedatapublished/blog.git

@@ -1,0 +1,1 @@
+hugo -s itsalocke -d "../public"
