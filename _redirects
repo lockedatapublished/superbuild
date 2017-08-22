@@ -1,3 +1,4 @@
+# blog redirects
 /setting-up-wordpress-on-azure/ /blog/setting-up-wordpress-on-azure/ 301
 /objectless-chec-boxes-using-vba/ /blog/objectless-check-boxes-using-vba/ 301
 /time-to-go-home/ /blog/time-to-go-home/ 301
@@ -130,3 +131,34 @@
 /improving-automatic-document-production-with-r/ /blog/improving-automatic-document-production-with-r/ 301
 /versioning-r-model-objects-in-sql-server/ /blog/versioning-r-model-objects-in-sql-server/ 301
 /why-data-people-dont-do-devops/ /blog/why-data-people-dont-do-devops/ 301
+
+# talk redirects
+/cloud-cost-effective/ /talks/cloud-cost-effective/ 301
+/coping-with-growth/ /talks/coping-with-growth/ 301
+/power-bi-painpoints/ /talks/power-bi-painpoints/ 301
+/data-science-executive-briefing/ /talks/data-science-executive-briefing/ 301
+/r-and-sql-server/ /talks/r-and-sql-server/ 301
+/data-docker-discombobulating/ /talks/data-docker-discombobulating/ 301
+/failing-my-way-to-success-with-azure/ /talks/failing-my-way-to-success-with-azure/ 301
+/anchor-models/ /talks/anchor-models/ 301
+/logistic-regressions-in-r/ /talks/logistic-regressions-in-r/ 301
+/datatable-powerhour/ /talks/datatable-powerhour/ 301
+/datatable-in-5/ /talks/datatable-in-5/ 301
+/the-you-in-community/ /talks/the-you-in-community/ 301
+/reproducible-r-docs-in-github/ /talks/reproducible-r-docs-in-github/ 301
+/personal-branding/ /talks/personal-branding/ 301
+/microsoft-sql-server-and-r-services/ /talks/microsoft-sql-server-and-r-services/ 301
+/board-packs/ /talks/board-packs/ 301
+/infrastructure-for-rpeeps/ /talks/infrastructure-for-rpeeps/ 301
+/git-in-5/ /talks/git-in-5/ 301
+/getting-better-with-data/ /talks/getting-better-with-data/ 301
+/cut-the-r-learning-curve/ /talks/cut-the-r-learning-curve/ 301
+/being-lazy-with-infrastructure/ /talks/being-lazy-with-infrastructure/ 301
+/skilling-up-to-code-with-data/ /talks/skilling-up-to-code-with-data/ 301
+/stats-101/ /talks/stats-101/ 301
+/analytical-web-services/ /talks/analytical-web-services/ 301
+/knowing-rs-from-elbow/ /talks/knowing-rs-from-elbow/ 301
+/r-for-developers/ /talks/r-for-developers/ 301
+/agile-bi/ /talks/agile-bi/ 301
+/intro-to-r/ /talks/intro-to-r/ 301
+
