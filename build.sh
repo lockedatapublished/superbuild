@@ -16,3 +16,5 @@ cp -R datasauRus/docs/* public/datasauRus/
 
 mkdir public/HIBPwned
 cp -R HIBPwned/docs/* public/HIBPwned/
+
+cp _redirects public/
