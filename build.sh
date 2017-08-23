@@ -17,4 +17,6 @@ cp -R datasauRus/docs/* public/datasauRus/
 mkdir public/HIBPwned
 cp -R HIBPwned/docs/* public/HIBPwned/
 
-cp _redirects public/
+cp -v _redirects public/
+cp -v robots.txt public/
+cp -v sitemap_index.xml public/
