@@ -162,3 +162,6 @@
 /agile-bi/ /talks/post/agile-bi/ 301
 /intro-to-r/ /talks/post/intro-to-r/ 301
 
+# rss redirects
+/feed /blog/index.xml
+/category/r/feed/ /blog/categories/r/index.xml
