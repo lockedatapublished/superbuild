@@ -19,3 +19,6 @@
 [submodule "HIBPwned"]
 	path = HIBPwned
 	url = git@github.com:stephlocke/HIBPwned.git
+[submodule "news"]
+	path = news
+	url = git@github.com:lockedatapublished/news.git

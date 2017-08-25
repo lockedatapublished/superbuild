@@ -4,6 +4,7 @@ hugo version
 hugo -s itsalocke -d "../public"
 hugo -s blog -d "../public/blog"
 hugo -s talks -d "../public/talks"
+hugo -s news -d "../public/news"
 
 mkdir public/pRojects
 cp -R pRojects/docs/* public/pRojects/
