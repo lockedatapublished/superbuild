@@ -1,1 +1,1 @@
-Sitemap: http://lockelife.com/sitemap_index.xml
+Sitemap: https://itsalocke.com/sitemap_index.xml

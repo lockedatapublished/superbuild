@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
    <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <sitemap>
-      <loc>http://lockelife.com/sitemap.xml</loc>
+      <loc>https://itsalocke.com/sitemap.xml</loc>
    </sitemap>
    <sitemap>
-      <loc>http://lockelife.com/blog/sitemap.xml</loc>
+      <loc>https://itsalocke.com/blog/sitemap.xml</loc>
    </sitemap>
    <sitemap>
-      <loc>http://lockelife.com/talks/sitemap.xml</loc>
+      <loc>https://itsalocke.com/talks/sitemap.xml</loc>
    </sitemap>
    <sitemap>
-      <loc>http://lockelife.com/news/sitemap.xml</loc>
+      <loc>https://itsalocke.com/news/sitemap.xml</loc>
    </sitemap>
    </sitemapindex>
