@@ -131,6 +131,31 @@
 /improving-automatic-document-production-with-r/ /blog/improving-automatic-document-production-with-r/ 301
 /versioning-r-model-objects-in-sql-server/ /blog/versioning-r-model-objects-in-sql-server/ 301
 /why-data-people-dont-do-devops/ /blog/why-data-people-dont-do-devops/ 301
+/change-no-match-found-no-code-qa-bot/ /blog/how-to-change-no-match-found-on-your-no-code-qa-bot/ 301
+/using-purrr-with-apis/ /blog/using-purrr-with-apis--revamping-my-code/ 301
+/presentation-site-hugo-walkthrough/ /blog/all-my-talks-in-one-place-plus-a-hugo-walkthrough/ 301
+/battle-beards-march-29th/ https://battleofthebeards.info 301
+/battle-beards-now-online/ https://battleofthebeards.info 301
+/throw-1-speak-1/ /blog/organised-speaking--throw-1-speak-1 301
+/organised-speaking-iterative-development/ /blog/organised-speaking--presentation-design/ 301
+/some-basic-web-scraping-in-r/ /blog/conference-sessions--basic-web-scraping-in-r/ 301
+/r-package-haveibeenpwned-com/ /blog/hibpwned-an-r-package-for-haveibeenpwned.com/ 301
+/shiny-module-design-pattern-pass-inputs-one-module-another/ /blog/shiny-module-design-patterns-pass-module-inputs-to-other-modules/ 301
+/satrdays-voting-closes-may-31st/ /blog/#satrdays-voting-closes-may-31st/ 301
+/use-rprofile-give-important-notifications/ /blog/use-your-.rprofile-to-give-you-important-notifications/ 301
+/pass-summit-2016-submissions-feedback/ /blog/my-pass-#summit2016-submissions-feedback/ 301
+/first-gamemaker-game/ /blog/finished-my-first-gamemaker-game/ 301
+/passing-values-bash-script/ /blog/quick-tip-passing-values-to-a-bash-script/ 301
+/note-potential-new-speakers-ok-not-perfect/ /blog/a-note-to-potential-new-speakers-its-ok-not-to-be-perfect/ 301
+/my-first-mvp-summit/ /blog/my-first-mvp-summit--a-fantastic-reminder/ 301
+/crisp-dm/ /blog/crisp-dm-and-why-you-should-know-about-it/ 301
+/microsoft-cognitive-services-text-analytics-api/ /blog/r-quick-tip-microsoft-cognitive-services-text-analytics-api/ 301
+/building-booth-presence/ /blog/building-your-booth-presence-sce-p4/ 301
+/r-training-environment/ /blog/building-an-r-training-environment/ 301
+/table-parameters-rmarkdown-reports/ /blog/r-quick-tip-table-parameters-for-rmarkdown-reports/ 301
+/upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/ /blog/r-quick-tip-upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/ 301
+/r-quick-tip-sequential-yaml-headers-rmarkdown-parameter-re-use/ /blog/r-quick-tip-parameter-re-use-within-rmarkdown-yaml/ 301
+/interpreting-regression-cofficients/ /blog/how-to-go-about-interpreting-regression-cofficients/
 
 # talk redirects
 /cloud-cost-effective/ /talks/post/cloud-cost-effective/ 301
@@ -168,3 +193,4 @@
 
 # general redirects
 /company /#company
+/oss /#community
