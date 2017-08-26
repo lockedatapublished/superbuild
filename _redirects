@@ -165,3 +165,6 @@
 # rss redirects
 /feed /blog/index.xml
 /category/r/feed/ /blog/categories/r/index.xml
+
+# general redirects
+/company /#company
