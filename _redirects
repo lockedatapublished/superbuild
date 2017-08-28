@@ -188,9 +188,13 @@
 /intro-to-r/ /talks/post/intro-to-r/ 301
 
 # rss redirects
-/feed /blog/index.xml
-/category/r/feed/ /blog/categories/r/index.xml
+/feed /blog/index.xml 301
+/category/r/feed/ /blog/categories/r/index.xml 301
 
 # general redirects
-/company /#company
-/oss /#community
+/company /#company 301
+/oss /#community 301
+
+# page redirects
+/about-us /company/aboutus 301
+/upcoming-events /#calendar 301
