@@ -5,6 +5,7 @@ git submodule update --init --recursive
 hugo version
 
 ## Infrastructure
+mkdir public
 cp -v _redirects public/
 cp -v robots.txt public/
 cp -v sitemap_index.xml public/
