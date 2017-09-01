@@ -200,4 +200,4 @@
 /upcoming-events /#calendar 301
 
 # slides redirects
-/slides/:pres/revealjs/:slug /slides/revealjs/:slug 301
+/slides/stats101_files/revealjs/* /slides/revealjs/:splat 301
