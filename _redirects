@@ -198,3 +198,6 @@
 # page redirects
 /about-us /company/aboutus 301
 /upcoming-events /#calendar 301
+
+# slides redirects
+/slides/*/revealjs /slides/revealjs 301
