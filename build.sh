@@ -31,6 +31,4 @@ cp -R HIBPwned/docs/* public/HIBPwned/
 
 ## Presentations
 mkdir public/slides
-mkdir public/slides/revealjs
-cp -R revealjs/* public/slides/revealjs/
 cp -R pres-datascience/docs/* public/slides/
