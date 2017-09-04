@@ -24,4 +24,6 @@
 	url = git@github.com:lockedatapublished/news.git
 [submodule "pres-datascience"]
 	path = pres-datascience
-	url = git@github.com:lockedata/pres-datascience.git
+	url = git@github.com:lockedata/pres-datascience.git[submodule "revealjs"] 
+  path = revealjs 
+  url = https://github.com/lockedata/reveal.js.git 
