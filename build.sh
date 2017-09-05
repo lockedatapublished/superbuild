@@ -29,6 +29,10 @@ cp -R datasauRus/docs/* public/datasauRus/
 mkdir public/HIBPwned
 cp -R HIBPwned/docs/* public/HIBPwned/
 
+## Reveal in root dir
+mkdir public/js/revealjs
+cp -R revealjs/* public/js/revealjs/
+
 ## Presentations
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
