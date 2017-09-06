@@ -28,3 +28,6 @@
 [submodule "revealjs"] 
   path = revealjs 
   url = https://github.com/lockedata/reveal.js.git 
+[submodule "pres-r"]
+	path = pres-r
+	url = https://github.com/lockedata/pres-r.git
