@@ -194,6 +194,7 @@
 # general redirects
 /company /#company 301
 /oss /#community 301
+/contact-us-page /#contact 301
 
 # page redirects
 /about-us /company/aboutus 301
