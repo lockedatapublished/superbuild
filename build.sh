@@ -37,3 +37,4 @@ cp -R revealjs/* public/js/revealjs/
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
 cp -R pres-r/docs/* public/slides/
+cp -R pres-azure/docs/* public/slides/

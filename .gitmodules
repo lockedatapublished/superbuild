@@ -31,3 +31,6 @@
 [submodule "pres-r"]
 	path = pres-r
 	url = https://github.com/lockedata/pres-r.git
+[submodule "pres-azure"]
+	path = pres-azure
+	url = git@github.com:lockedata/pres-azure.git
