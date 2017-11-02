@@ -199,6 +199,7 @@
 # page redirects
 /about-us /company/aboutus 301
 /upcoming-events /#calendar 301
+/model-audits /company/peerreview 301
 
 # slides redirects
 /slides/stats101_files/revealjs/* /slides/revealjs/:splat 301
