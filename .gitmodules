@@ -1,30 +1,30 @@
 [submodule "itsalocke"]
 	path = itsalocke
-	url = git@github.com:lockedatapublished/itsalocke.git
+	url = https://github.com/lockedatapublished/itsalocke.git
 [submodule "blog"]
 	path = blog
-	url = git@github.com:lockedatapublished/blog.git
+	url = https://github.com/lockedatapublished/blog.git
 [submodule "talks"]
 	path = talks
-	url = git@github.com:lockedatapublished/talks.git
+	url = https://github.com/lockedatapublished/talks.git
 [submodule "pRojects"]
 	path = pRojects
-	url = git@github.com:lockedata/pRojects.git
+	url = https://github.com/lockedata/pRojects.git
 [submodule "optiRum"]
 	path = optiRum
-	url = git@github.com:stephlocke/optiRum.git
+	url = https://github.com/stephlocke/optiRum.git
 [submodule "datasauRus"]
 	path = datasauRus
-	url = git@github.com:stephlocke/datasauRus.git
+	url = https://github.com/stephlocke/datasauRus.git
 [submodule "HIBPwned"]
 	path = HIBPwned
-	url = git@github.com:stephlocke/HIBPwned.git
+	url = https://github.com/stephlocke/HIBPwned.git
 [submodule "news"]
 	path = news
-	url = git@github.com:lockedatapublished/news.git
+	url = https://github.com/lockedatapublished/news.git
 [submodule "pres-datascience"]
 	path = pres-datascience
-	url = git@github.com:lockedata/pres-datascience.git
+	url = https://github.com/lockedata/pres-datascience.git
 [submodule "revealjs"] 
   path = revealjs 
   url = https://github.com/lockedata/reveal.js.git 
@@ -33,4 +33,4 @@
 	url = https://github.com/lockedata/pres-r.git
 [submodule "pres-azure"]
 	path = pres-azure
-	url = git@github.com:lockedata/pres-azure.git
+	url = https://github.com/lockedata/pres-azure.git
