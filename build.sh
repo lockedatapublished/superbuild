@@ -12,12 +12,9 @@ cp -v sitemap_index.xml public/
 
 ## Core site areas
 hugo -s itsalocke -d "../public"
+hugo -s blog -d "../public/blog"
 hugo -s talks -d "../public/talks"
 hugo -s news -d "../public/news"
-
-## Travis generated
-mkdir public/blog
-cp -R blog/public/* public/blog/
 
 ## Package docs
 mkdir public/pRojects
