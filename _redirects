@@ -192,8 +192,6 @@
 /category/r/feed/ /blog/categories/r/index.xml 301
 
 # general redirects
-/company /#company 301
-/oss /#community 301
 /contact-us-page /#contact 301
 /talks /talks/ 301
 
