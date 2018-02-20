@@ -211,3 +211,4 @@
 # training redirects
 /company/recommendedtraining/ /training/recommendedtraining/ 301
 /company/onlinetraining/ /training/onlinetraining/ 301
+/company/customtraining /training/customtraining 301
