@@ -207,3 +207,8 @@
 # learnr redirects
 /learnr/week01_learnr/ learnr/week01_learnrandrstudio/ 301
 /learnr/week03_datatypes/ learnr/week02_datatypesandpopquiz/ 301
+
+# training redirects
+/company/recommendedtraining/ /training/recommendedtraining/ 301
+/company/onlinetraining/ /training/onlinetraining/ 301
+/company/customtraining /training/customtraining 301
