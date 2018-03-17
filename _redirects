@@ -155,7 +155,8 @@
 /table-parameters-rmarkdown-reports/ /blog/r-quick-tip-table-parameters-for-rmarkdown-reports/ 301
 /upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/ /blog/r-quick-tip-upload-multiple-files-in-shiny-and-consolidate-into-a-dataset/ 301
 /r-quick-tip-sequential-yaml-headers-rmarkdown-parameter-re-use/ /blog/r-quick-tip-parameter-re-use-within-rmarkdown-yaml/ 301
-/interpreting-regression-cofficients/ /blog/how-to-go-about-interpreting-regression-cofficients/
+/interpreting-regression-coefficients/ /blog/how-to-go-about-interpreting-regression-coefficients/ 301
+/blog/introducing-python-for-data-scientist---pt1 /blog/introducing-python-for-data-scientists---pt1 301
 
 # talk redirects
 /cloud-cost-effective/ /talks/post/cloud-cost-effective/ 301
@@ -205,8 +206,8 @@
 /slides/stats101_files/revealjs/* /slides/revealjs/:splat 301
 
 # learnr redirects
-/learnr/week01_learnr/ learnr/week01_learnrandrstudio/ 301
-/learnr/week03_datatypes/ learnr/week02_datatypesandpopquiz/ 301
+/learnr/week01_learnr learnr/week01_learnrandrstudio 301
+/learnr/week03_datatypes learnr/week02_datatypesandpopquiz 301
 
 # training redirects
 /company/recommendedtraining/ /training/recommendedtraining/ 301
