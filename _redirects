@@ -194,7 +194,7 @@
 
 # general redirects
 /contact-us-page /#contact 301
-/talks /talks/ 301
+# /talks /talks/ 301
 
 # page redirects
 /about-us /company/aboutus 301
