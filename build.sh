@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Set if not exists
+DEPLOY_PRIME_URL=${DEPLOY_PRIME_URL:="https://itsalocke.com"}
 ## Updates
 git submodule sync --recursive
 git submodule update --init --recursive
@@ -13,10 +15,10 @@ cp -v robots.txt public/
 cp -v sitemap_index.xml public/
 
 ## Core site areas
-hugo -s itsalocke -d "../public"
-hugo -s blog -d "../public/blog"
-hugo -s talks -d "../public/talks"
-hugo -s news -d "../public/news"
+hugo -s itsalocke -d "../public" -b "$DEPLOY_PRIME_URL/"
+hugo -s blog -d "../public/blog" -b "$DEPLOY_PRIME_URL/blog/"
+hugo -s talks -d "../public/talks" -b "$DEPLOY_PRIME_URL/talks/"
+hugo -s news -d "../public/news" -b "$DEPLOY_PRIME_URL/news/"
 
 ## Package docs
 mkdir public/pRojects
