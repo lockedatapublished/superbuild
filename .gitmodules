@@ -18,7 +18,7 @@
 	url = https://github.com/stephlocke/datasauRus.git
 [submodule "HIBPwned"]
 	path = HIBPwned
-	url = https://github.com/stephlocke/HIBPwned.git
+	url = https://github.com/lockedata/HIBPwned.git
 [submodule "news"]
 	path = news
 	url = https://github.com/lockedatapublished/news.git
