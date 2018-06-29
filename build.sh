@@ -38,3 +38,6 @@ mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
 cp -R pres-r/docs/* public/slides/
 cp -R pres-azure/docs/* public/slides/
+
+## Twitter handle fix
+grep -rl stefflocke public | xargs sed -i 's/stefflocke/theStephLocke/g'
