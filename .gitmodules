@@ -34,3 +34,6 @@
 [submodule "pres-azure"]
 	path = pres-azure
 	url = https://github.com/lockedata/pres-azure.git
+[submodule "pres-datawrangling"]
+	path = pres-datawrangling
+	url = https://github.com/lockedata/pres-datawrangling.git
