@@ -29,11 +29,6 @@ cp -R datasauRus/docs/* public/datasauRus/
 mkdir public/HIBPwned
 cp -R HIBPwned/docs/* public/HIBPwned/
 
-## Reveal in root dir
-mkdir public/js/revealjs
-cp -R revealjs/* public/js/revealjs/
-grep -rl 'reveal.js' public |  xargs sed -i 's|"T.*\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
-
 ## Presentations
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
@@ -45,3 +40,8 @@ cp -R pres-datawrangling/docs/* public/slides/
 grep -rl stefflocke public | xargs sed -i 's/stefflocke/theStephLocke/g'
 grep -rl SteffLocke public | xargs sed -i 's/SteffLocke/theStephLocke/g'
 grep -rl 'http://stephlocke' public | xargs sed -i 's|http://stephlocke|https://stephlocke|g'
+
+## Reveal in root dir
+mkdir public/js/revealjs
+cp -R revealjs/* public/js/revealjs/
+grep -rl 'reveal.js' public |  xargs sed -i 's|"T.*\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
