@@ -32,7 +32,7 @@ cp -R HIBPwned/docs/* public/HIBPwned/
 ## Reveal in root dir
 mkdir public/js/revealjs
 cp -R revealjs/* public/js/revealjs/
-grep -rl 'reveal.js' |  xargs sed -i 's|"T.*\/reveal\.js-3\.3\.0\.1|"js/revealjs|g'
+grep -rl 'reveal.js' public |  xargs sed -i 's|"T.*\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
 
 ## Presentations
 mkdir public/slides
