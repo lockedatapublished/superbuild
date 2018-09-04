@@ -32,12 +32,14 @@ cp -R HIBPwned/docs/* public/HIBPwned/
 ## Reveal in root dir
 mkdir public/js/revealjs
 cp -R revealjs/* public/js/revealjs/
+grep -rl 'reveal.js' |  xargs sed -i 's|".*/reveal\.js-3\.3\.0\.1|"js/revealjs|g'
 
 ## Presentations
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
 cp -R pres-r/docs/* public/slides/
 cp -R pres-azure/docs/* public/slides/
+cp -R pres-datawrangling/docs/* public/slides/
 
 ## Twitter handle fix
 grep -rl stefflocke public | xargs sed -i 's/stefflocke/theStephLocke/g'
