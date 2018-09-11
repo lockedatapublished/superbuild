@@ -25,9 +25,9 @@
 [submodule "pres-datascience"]
 	path = pres-datascience
 	url = https://github.com/lockedata/pres-datascience.git
-[submodule "revealjs"] 
-  path = revealjs 
-  url = https://github.com/lockedata/reveal.js.git 
+[submodule "revealjs"]
+  path = revealjs
+  url = https://github.com/lockedata/reveal.js.git
 [submodule "pres-r"]
 	path = pres-r
 	url = https://github.com/lockedata/pres-r.git
@@ -37,3 +37,6 @@
 [submodule "pres-datawrangling"]
 	path = pres-datawrangling
 	url = https://github.com/lockedata/pres-datawrangling.git
+[submodule "namer"]
+	path = namer
+	url = https://github.com/lockedata/namer.git
