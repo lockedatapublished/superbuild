@@ -29,6 +29,9 @@ cp -R datasauRus/docs/* public/datasauRus/
 mkdir public/HIBPwned
 cp -R HIBPwned/docs/* public/HIBPwned/
 
+mkdir public/namer
+cp -R namer/docs/* public/namer/
+
 ## Presentations
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
