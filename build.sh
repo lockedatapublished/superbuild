@@ -32,6 +32,10 @@ cp -R HIBPwned/docs/* public/HIBPwned/
 mkdir public/namer
 cp -R namer/docs/* public/namer/
 
+git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
+git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
+
+
 ## Presentations
 mkdir public/slides
 cp -R pres-datascience/docs/* public/slides/
