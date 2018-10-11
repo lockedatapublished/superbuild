@@ -36,7 +36,24 @@ OR
 
 ------------------------------------------------------------------------
 
+## Workflow for processing PRs to submodules
+
+1. Review changes, edit as needed, commit
+2. On the PR page, click Review Changes, select Approve (or rejected and exit this workflow), and then Submit
+3. Click the dropdown next to Merge and select Squash and Merge, then click Merge and confirm
+4. Switch to git on your desktop (cloning Superbuild if needed)
+5. If not already done, initialize the relevent submodule
+6. Open the submodule and double-click Master to make it the active branch
+7. Pull
+8. Close the submodule
+9. Stage and commit changes to submodule at Superbuild level
+10. Push
+
+------------------------------------------------------------------------
+
 Troubleshooting
 ---------------
 
 Okay first off. Ask Steph. DON'T get in a mess and start reverting and deleting willy nilly!
+
+You can review the progress of your submission, and see any errors in the Hugo execution, here: https://app.netlify.com/sites/itsalocke/deploys
