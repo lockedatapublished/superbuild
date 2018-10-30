@@ -52,3 +52,5 @@ grep -rl 'http://stephlocke' public | xargs sed -i 's|http://stephlocke|https://
 mkdir public/js/revealjs
 cp -R revealjs/* public/js/revealjs/
 grep -rl 'reveal.js' public |  xargs sed -i 's|"T.*\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
+grep -rl 'reveal.js' public |  xargs sed -i 's|"C.*\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
+grep -rl 'reveal.js' public |  xargs sed -i 's|"reveal\/reveal\.js-3\.3\.0\.1|"../js/revealjs|g'
