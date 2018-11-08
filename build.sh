@@ -17,8 +17,6 @@ hugo -s talks -d "../public/talks"
 hugo -s news -d "../public/news"
 
 ## Package docs
-mkdir public/pRojects
-cp -R pRojects/docs/* public/pRojects/
 
 mkdir public/optiRum
 cp -R optiRum/docs/* public/optiRum/
@@ -34,6 +32,7 @@ cp -R namer/docs/* public/namer/
 
 git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
 git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
+git clone -b gh-pages https://github.com/lockedata/pRojects.git public/pRojects
 
 
 ## Presentations
