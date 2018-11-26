@@ -30,7 +30,10 @@ cp -R HIBPwned/docs/* public/HIBPwned/
 mkdir public/namer
 cp -R namer/docs/* public/namer/
 
+rm -rf public/ibmsunburst
 git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
+
+rm -rf public/cransays
 git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
 
 rm -rf public/pRojects
