@@ -33,7 +33,7 @@ cp -R namer/docs/* public/namer/
 git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
 git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
 
-mkdir -p public/pRojects
+rm -rf public/pRojects
 git clone -b gh-pages https://github.com/lockedata/pRojects.git public/pRojects
 
 
