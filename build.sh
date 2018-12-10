@@ -18,18 +18,17 @@ hugo -s news -d "../public/news"
 
 ## Package docs
 
-
 rm -rf public/optiRum
 git clone -b gh-pages https://github.com/lockedata/optiRum.git public/optiRum
 
-mkdir public/datasauRus
-cp -R datasauRus/docs/* public/datasauRus/
+rm -rf public/datasauRus
+git clone -b gh-pages https://github.com/lockedata/datasauRus.git public/datasauRus
 
-mkdir public/HIBPwned
-cp -R HIBPwned/docs/* public/HIBPwned/
+rm -rf public/HIBPwned
+git clone -b gh-pages https://github.com/lockedata/HIBPwned.git public/HIBPwned
 
-mkdir public/namer
-cp -R namer/docs/* public/namer/
+rm -rf public/namer
+git clone -b gh-pages https://github.com/lockedata/namer.git public/namer
 
 rm -rf public/ibmsunburst
 git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
