@@ -18,8 +18,8 @@ hugo -s news -d "../public/news"
 
 ## Package docs
 
-mkdir public/optiRum
-cp -R optiRum/docs/* public/optiRum/
+rm -rf public/optiRum
+git clone -b gh-pages https://github.com/lockedata/optiRum.git public/optiRum
 
 mkdir public/datasauRus
 cp -R datasauRus/docs/* public/datasauRus/
