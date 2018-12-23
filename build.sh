@@ -39,6 +39,8 @@ git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
 rm -rf public/pRojects
 git clone -b gh-pages https://github.com/lockedata/pRojects.git public/pRojects
 
+rm -rf public/hubspot
+git clone -b gh-pages https://github.com/lockedata/hubspot.git public/hubspot
 
 ## Presentations
 mkdir public/slides
