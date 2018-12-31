@@ -3,6 +3,7 @@ title: "Superbuild_README"
 author: "Ellen Talbot"
 date: "28/06/2018"
 output: html_document
+draft: TRUE
 ---
 
 Workflow
@@ -10,7 +11,8 @@ Workflow
 
 In order to clone the superbuild repository onto your computer you should run the following line in your terminal.
 
-`git clone --recurse-submodules https://github.com/lockedatapublished/superbuild`  This is known as checking out a repository.
+`git clone --recurse-submodules https://github.com/lockedatapublished/superbuild`  
+This is known as checking out a repository.
 
 `superbuild` comes with submodules that are links to other repositories. Check out each of these repositories on their master branches once the intiial clone has finished. `git submodule foreach git checkout master`
 
@@ -47,6 +49,21 @@ If however, you are happy with your changes and you have the go ahead to publish
 9. Stage and commit changes to submodule at Superbuild level
 10. Push
 
+------------------------------------------------------------------------
+
+## Other useful bits and pieces 
+
+### Compiling from .Rmd files 
+
+If you are writing your posts or pages in .Rmd file format, these need to be compiled into markdown in order for them to translate onto the webpage. 
+1. Navigate to `Superbuild/blog` on your cloned version.
+2. Open the file `sample_postbuild.R`
+3. Replace the filename inside `render()` with your own and run the script.
+4. Your .md file will appear below the .Rmd version like magic.
+
+### How to link to other posts/pages in the superbuild
+
+Coming soon! 
 ------------------------------------------------------------------------
 
 Troubleshooting
