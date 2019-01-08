@@ -36,7 +36,7 @@ git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsun
 rm -rf public/cransays
 git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
 
-rm -rf public/pRojects
+rm -rf public/starters
 git clone -b gh-pages https://github.com/lockedata/starters.git public/starters
 
 rm -rf public/hubspot
