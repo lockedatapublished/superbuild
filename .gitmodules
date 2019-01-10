@@ -7,9 +7,6 @@
 [submodule "talks"]
 	path = talks
 	url = https://github.com/lockedatapublished/talks.git
-[submodule "pRojects"]
-	path = pRojects
-	url = https://github.com/lockedata/pRojects.git
 [submodule "news"]
 	path = news
 	url = https://github.com/lockedatapublished/news.git
