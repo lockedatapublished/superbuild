@@ -33,9 +33,6 @@ git clone -b gh-pages https://github.com/lockedata/namer.git public/namer
 rm -rf public/ibmsunburst
 git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
 
-rm -rf public/cransays
-git clone -b gh-pages https://github.com/lockedata/cransays.git public/cransays
-
 rm -rf public/starters
 git clone -b gh-pages https://github.com/lockedata/starters.git public/starters
 
