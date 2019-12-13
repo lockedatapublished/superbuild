@@ -214,3 +214,6 @@
 /company/recommendedtraining/ /training/recommendedtraining/ 301
 /company/onlinetraining/ /training/onlinetraining/ 301
 /company/customtraining /training/customtraining 301
+
+# cransays
+/cransays https://lockedata.github.io/cransays 301
