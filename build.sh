@@ -37,7 +37,6 @@ rm -rf public/starters
 git clone -b gh-pages https://github.com/lockedata/starters.git public/starters
 
 rm -rf public/hubspot
-git clone -b gh-pages https://github.com/lockedata/hubspot.git public/hubspot
 
 ## Presentations
 mkdir public/slides

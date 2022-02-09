@@ -218,3 +218,6 @@
 # cransays
 /cransays https://lockedata.github.io/cransays 301
 /cransays/articles/dashboard.html https://lockedata.github.io/cransays/articles/dashboard.html 301
+
+# hubspot
+/hubspot/* https://github.com/DoubleYouGTT/hubspot 301
