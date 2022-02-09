@@ -218,6 +218,7 @@
 # cransays
 /cransays https://r-hub.github.io/cransays 301
 /cransays/articles/dashboard.html https://r-hub.github.io/cransays/articles/dashboard.html 301
+/cransays/articles/dashboard https://r-hub.github.io/cransays/articles/dashboard.html 301
 
 # hubspot
 /hubspot/* https://github.com/DoubleYouGTT/hubspot 301
