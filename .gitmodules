@@ -1,27 +1,24 @@
 [submodule "itsalocke"]
 	path = itsalocke
-	url = https://github.com/lockedatapublished/itsalocke.git
+	url = git@github.com:lockedatapublished/itsalocke.git
 [submodule "blog"]
 	path = blog
-	url = https://github.com/lockedatapublished/blog.git
+	url = git@github.com:lockedatapublished/blog.git
 [submodule "talks"]
 	path = talks
-	url = https://github.com/lockedatapublished/talks.git
+	url = git@github.com:lockedatapublished/talks.git
 [submodule "news"]
 	path = news
-	url = https://github.com/lockedatapublished/news.git
+	url = git@github.com:lockedatapublished/news.git
 [submodule "pres-datascience"]
 	path = pres-datascience
-	url = https://github.com/lockedata/pres-datascience.git
-[submodule "revealjs"]
-  path = revealjs
-  url = https://github.com/lockedata/reveal.js.git
+	url = git@github.com:lockedata/pres-datascience.git
 [submodule "pres-r"]
 	path = pres-r
-	url = https://github.com/lockedata/pres-r.git
+	url = git@github.com:lockedata/pres-r.git
 [submodule "pres-azure"]
 	path = pres-azure
-	url = https://github.com/lockedata/pres-azure.git
+	url = git@github.com:lockedata/pres-azure.git
 [submodule "pres-datawrangling"]
 	path = pres-datawrangling
-	url = https://github.com/lockedata/pres-datawrangling.git
+	url = git@github.com:lockedata/pres-datawrangling.git
