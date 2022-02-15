@@ -17,26 +17,8 @@ hugo -s talks -d "../public/talks"
 hugo -s news -d "../public/news"
 
 ## Package docs
-
-rm -rf public/optiRum
-git clone -b gh-pages https://github.com/lockedata/optiRum.git public/optiRum
-
-rm -rf public/datasauRus
-git clone -b gh-pages https://github.com/lockedata/datasauRus.git public/datasauRus
-
-rm -rf public/HIBPwned
-git clone -b gh-pages https://github.com/lockedata/HIBPwned.git public/HIBPwned
-
-rm -rf public/namer
-git clone -b gh-pages https://github.com/lockedata/namer.git public/namer
-
-rm -rf public/ibmsunburst
-git clone -b gh-pages https://github.com/lockedata/ibmsunburst.git public/ibmsunburst
-
 rm -rf public/starters
 git clone -b gh-pages https://github.com/lockedata/starters.git public/starters
-
-rm -rf public/hubspot
 
 ## Presentations
 mkdir public/slides
